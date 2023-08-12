@@ -156,7 +156,7 @@ const Subscription = () => {
       </div>
 
       <div>
-        <img src={razorpay} alt="" />
+        <img className="razorpay-img" src={razorpay} alt="" />
       </div>
     </div>
   );

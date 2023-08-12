@@ -5,7 +5,7 @@ import Subscription from "../../Components/Subscription/Subscription";
 import Navbar from "../../Components/Navbar/Navbar";
 const HomePage = () => {
   return (
-    <div className="ioaerwdf">
+    <div className="home-main-container">
       <Navbar />
       <div className="homeContainer">
         <CourseDetails />
